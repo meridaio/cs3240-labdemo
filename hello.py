@@ -1,4 +1,4 @@
 def greeting(msg):
     print(msg)
 
-greeting("hello")
+greeting("hello from master!")
